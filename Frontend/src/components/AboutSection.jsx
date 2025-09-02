@@ -64,8 +64,8 @@
 import React from "react";
 import girl from "../assets/girl.jpg";
 import { FaLock } from "react-icons/fa6";
-import PPencil from "../assets/ppencil.jpg";
-import YPencil from "../assets/ypencil.jpg";
+import PPencil from "../assets/PPencil.jpg";
+import YPencil from "../assets/YPencil.jpg";
 
 const AboutSection = () => {
   return (

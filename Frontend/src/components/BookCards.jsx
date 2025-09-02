@@ -2,9 +2,9 @@
 
 import React from "react";
 import BookCharacter from "../assets/boy.jpg";
-import BookStack from "../assets/handbook.jpg";
-import BookIcon from "../assets/handbook.jpg";
-import GirlReading from "../assets/cartoongirls.jpg";
+import BookStack from "../assets/HandBook.jpg";
+import BookIcon from "../assets/HandBook.jpg";
+import GirlReading from "../assets/Cartoongirls.jpg";
 import { FaStar } from "react-icons/fa";
 import UserGroup from "../assets/user.jpg";
 

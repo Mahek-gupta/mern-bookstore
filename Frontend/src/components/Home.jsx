@@ -34,7 +34,7 @@ const Home = () => {
 
   const fetchProducts = async () => {
     try {
-      const url = 'http://localhost:8080/products/pro';
+      const url = 'https://mern-bookstore-backend1.onrender.com/products/pro';
       const response = await fetch(url, {
         headers: {
           'Authorization': `Bearer ${localStorage.getItem('token')}`
